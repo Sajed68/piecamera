@@ -5,7 +5,7 @@ simple class to read frames from picamera.
 
 ```python
 import cv2
-from piecamera improt PieCamera
+from piecamera import PieCamera
 
 
 camera = PieCamera()
